@@ -1,10 +1,10 @@
-**ContentFlow AI — Multi-Agent Enterprise Content Generation System**
+******ContentFlow AI — Multi-Agent Enterprise Content Generation System******
 
 ContentFlow AI is a full-stack, multi-agent AI platform that automates enterprise content creation, compliance checking, localization, and platform-specific formatting in a single workflow.
 
 Built with React + Vite on the frontend and FastAPI + Uvicorn on the backend, the system uses the Gemini API from Google to simulate five specialized AI agents in a single prompt.
 
-**🚩 Problem Statement**
+**Problem Statement**
 
 Enterprise marketing and communication teams face major challenges:
 
@@ -16,7 +16,7 @@ Repetitive, error-prone, multi-tool workflow
 
 Most AI tools only generate text — they do not handle review, localization, formatting, and optimization together.
 
-**💡 Our Solution — ContentFlow AI**
+**Our Solution — ContentFlow AI**
 
 ContentFlow AI introduces a multi-agent AI pipeline where five AI roles work together:
 
@@ -26,11 +26,12 @@ Localization Agent — Translates into Hindi & Telugu
 Distribution Agent — Formats for LinkedIn, Twitter, Blog
 Intelligence Agent — Suggests hashtags, timing, improvements
 
-**🏗️ Architecture Diagram (Simple Flowchart)**
+**Architecture Diagram (Simple Flowchart)**
 
 <img width="940" height="700" alt="image" src="https://github.com/user-attachments/assets/e6e22d7f-a9ad-4052-9c46-2dbd3a106c52" />
 
-**⚙️ Setup Steps**
+
+**Setup Steps**
 
 1️⃣ Clone the Repository
 git clone <your-repo-link>
@@ -66,7 +67,7 @@ Enter a topic
 Select content types
 Click Generate
 
-**🖼️ Demo Screenshots**
+**Demo Screenshots**
 
 🔹 Main Interface
 <img width="940" height="451" alt="image" src="https://github.com/user-attachments/assets/9eadc703-c9c5-4e5c-a1ea-8a751650af49" />
@@ -80,7 +81,7 @@ Click Generate
 🔹 Intelligence Agent Output
 <img width="940" height="307" alt="image" src="https://github.com/user-attachments/assets/d208a0fd-7274-42c8-9c45-c8af84d199a7" />
 
-**✅ Key Features**
+**Key Features**
 
 Multi-agent AI pipeline in a single prompt
 Real-time content generation
@@ -91,7 +92,7 @@ Hashtag & timing intelligence
 Retry logic + robust JSON parsing
 Responsive dark UI
 
-**🚀 Future Scope**
+**Future Scope**
 
 User authentication & content history
 More Indian language support
@@ -99,6 +100,6 @@ A/B content variants
 Direct social media publishing
 Docker-based enterprise deployment
 
-**📌 Conclusion**
+**Conclusion**
 
 ContentFlow AI demonstrates how multi-agent LLM architecture can automate real-world enterprise content workflows — from idea to publish-ready content — in seconds.
